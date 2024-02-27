@@ -1,5 +1,7 @@
 # ESGI - Cloud course - Render Node.js app
 
+> Exercise Student for  the "Cloud" module of the ESGI
+
 To do this exercise, you must read carefully the given documentations and rules.
 
 ## Rules
